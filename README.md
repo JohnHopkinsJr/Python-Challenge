@@ -1,10 +1,8 @@
-# John Hopkins 2/20/21
-# Georiga Tech BootCamp 2021 HW 3 Python-Challenge
 # Python-Challenge
-
 # Python Homework - Py Me Up, Charlie
-
 ## Background
+### John Hopkins 2/20/21
+### Georiga Tech BootCamp 2021 HW 3 Python-Challenge
 
 Well... you've made it!
 
