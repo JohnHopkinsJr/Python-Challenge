@@ -1,0 +1,8 @@
+* PyBank Report Results * 
+  ---------------------
+Total Revenues: $38382578
+Total # of Months: 86
+Average Monthly Change: $-2315
+Greatest Revenues Increase: $1926159
+Greatest Revenues Decrease: $-2196167
+Trending Change: $-2315
